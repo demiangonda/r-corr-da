@@ -1,1 +1,4 @@
 scripts for some data wrangling and visualization with R
+
+script.r - extract and visualize data from online html tables
+script_2.r - visualize relations from json
